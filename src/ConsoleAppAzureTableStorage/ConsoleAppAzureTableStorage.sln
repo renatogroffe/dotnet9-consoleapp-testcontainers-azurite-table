@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36017.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppAzureTableStorage", "ConsoleAppAzureTableStorage.csproj", "{90FFA848-72F5-0783-0D73-2D53C448E687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90FFA848-72F5-0783-0D73-2D53C448E687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FFA848-72F5-0783-0D73-2D53C448E687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FFA848-72F5-0783-0D73-2D53C448E687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FFA848-72F5-0783-0D73-2D53C448E687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4131AA7E-AE49-42F0-90B2-772F858ED66B}
+	EndGlobalSection
+EndGlobal
